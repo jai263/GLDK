@@ -1,0 +1,8 @@
+
+{
+  "name": "AuraCommerce",
+  "description": "A clean, professional, and mobile-friendly e-commerce platform with an admin dashboard, AI-powered product descriptions, and order management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
